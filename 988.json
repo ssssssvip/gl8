@@ -9,14 +9,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "*老鸭资源",
-      "name": "老鸭",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+    
     
     {
       "key": "*色猫资源",
