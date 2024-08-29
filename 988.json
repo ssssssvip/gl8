@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -9,13 +9,65 @@
     }
   ],
   "sites": [
-    
     {
-      "key": "",
-      "name": "🈲未成年人禁止访问，请止步！！",
-      "type": 3,
-      "api": "",
-      "searchable": 0
+      "key": "*老鸭资源",
+      "name": "老鸭",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "量子",
+      "name": "*量子(直连)",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "fhapi9.com",
+      "name": "*08(直连)",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "msnii.com",
+      "name": "*12(直连)",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.sexnguon.com",
+      "name": "*19直连)",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ren4",
+      "name": "*25(直连)",
+      "type": 0,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鸡坤资源",
+      "name": "鸡坤采集",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "*色猫资源",
