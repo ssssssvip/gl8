@@ -18,6 +18,14 @@
       "quickSearch": 0
     },
     {
+      "key": "*1老鸭资源",
+      "name": "老鸭1",
+      "type": 1,
+      "api": "https://www.nnvod.com/index.php/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
       "key": "量子",
       "name": "*量子(直连)",
       "type": 0,
