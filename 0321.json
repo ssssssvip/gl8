@@ -24,9 +24,9 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      ["categories": [
+      "categories": [
         "伦理片"
-      ]]
+      ]
     },
     {
       "key": "fhapi9.com",
