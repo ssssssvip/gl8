@@ -17,17 +17,7 @@
       "quickSearch": 0
     },
     
-    {
-      "key": "量子",
-      "name": "*量子(直连)",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
+    
     {
       "key": "fhapi9.com",
       "name": "*08(直连)",
