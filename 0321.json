@@ -1,39 +1,39 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
-  "wallpaper": "https://gao.chuqiuyu.tk",
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
-    }
-  ],
-  "sites": [
-    {
-      "key": "*老鸭资源",
-      "name": "老鸭",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a","spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
+  "壁纸": "https://gao.chuqiuyu.tk""wallpaper": "https://gao.chuqiuyu.tk",
+  "lives": ["lives": [
+    {{
+      "名称": "直播","name": "直播",
+      "类型": 0,"type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt""url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
+    }}
+  ]],
+  "sites": ["sites": [
+    {{
+      "key": "*老鸭资源","key": "*老鸭资源",
+      "名称": "老鸭","name": "老鸭",
+      "类型": 1,"type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/","api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "可搜索的": 1,"searchable": 1,
+      "快速搜索": 0"quickSearch": 0
+    }},
     
-    {
-      "key": "量子",
-      "name": "*量子(直连)",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "fhapi9.com",
-      "name": "*08(直连)",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+    {{
+      "key": "量子","key": "量子",
+      "名称": "量子(直连)","name": "*量子(直连)",
+      "类型": 0,"type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "可搜索的": 1,"searchable": 1,
+      "changeable": 1,"changeable": 1,
+      "类别": ["categories": [
+        伦理片"伦理片"
+      ]]
+    }},
+    {{
+      "key": "fhapi9.com","key": "fhapi9.com",
+      "名称": "直连","name": "*08(直连)",
+      "类型": 1,"type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/","api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
