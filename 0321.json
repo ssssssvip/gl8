@@ -10,7 +10,13 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    
+    {"key": "*细胞",
+      "name": "细胞",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0
+    },
     
     {
       "key": "fhapi9.com",
