@@ -17,7 +17,34 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    
+    {"key": "*香蕉",
+      "name": "香蕉",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {"key": "*幸福",
+      "name": "幸福",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {"key": "*黄仓",
+      "name": "黄仓",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {"key": "*茅台",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
     {
       "key": "fhapi9.com",
       "name": "*08(直连)",
