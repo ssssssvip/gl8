@@ -1,13 +1,7 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
-  "wallpaper": "https://gao.chuqiuyu.tk",
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
-    }
-  ],
+  "spider": "https://oss4liview.moji.com/thd_file/2026/02/07/fa429970d194f679c4b2c0a01371ecdf.jpg;md5;dd02508bff82cb8962ceaa52a58604f6",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  
   "sites": [
     {"key": "*老鸭资源",
       "name": "老鸭",
