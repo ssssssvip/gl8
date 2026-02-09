@@ -3,10 +3,10 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   
   "sites": [
-    {"key": "*老鸭资源",
-      "name": "老鸭",
+    {"key": "*ck",
+      "name": "ck",
       "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 0
     },
